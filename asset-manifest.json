@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RacionamientoBogota/static/css/main.e6c13ad2.css",
+    "main.js": "/RacionamientoBogota/static/js/main.204cef08.js",
+    "index.html": "/RacionamientoBogota/index.html",
+    "main.e6c13ad2.css.map": "/RacionamientoBogota/static/css/main.e6c13ad2.css.map",
+    "main.204cef08.js.map": "/RacionamientoBogota/static/js/main.204cef08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.204cef08.js"
+  ]
+}
